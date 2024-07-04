@@ -35,7 +35,7 @@ var blogs =[
 
     {
         title:"From Joy to Fear: The Alarming Truth About Black Motherhood",
-        img:"motherhood1.jpg",
+        img:"Motherhood1.jpg",
         author:"Erica Marshall-Lee and Frances C. Calkins",
         date:"November 1, 2023",
         p1:"I am angry. I am disappointed. I am discouraged. I am confused. Once again, this is nothing new. Why this time, you ask? My instinct is to reply with the sardonic response, “Why not?” because, let’s face it, there is a multitude of reasons that African-descended women in the United States are angry, disappointed, discouraged, and confused.",
@@ -46,7 +46,7 @@ var blogs =[
     },
     {
         title:"WordinBlack Black Single Mothers Can Do It Alone But Why Should They Have To When Resources Are All Around",
-        img:"motherhood2.png",
+        img:"Motherhood2.jpg",
         author:"Sherri Kolade",
         date:"March 15, 2022",
         p1:"For Black mothers who need assistance, especially those who are on the lower rungs of the economic ladder, it can be hard enough to find them while they are busy rearing children, being the sole breadwinner, and being the emotional and foundational support 24/7 with no immediate relief in sight. The adage “it takes a village to raise a child” especially still rings true for the many single mothers who have no choice but to rely on family and friends to babysit their children and provide extended support for them when daycare is too costly and many times out of the question.",
@@ -57,7 +57,7 @@ var blogs =[
     },
     {
         title:"Top 10 Challenges of the Modern Mom",
-        img:"motherhood3.jpeg",
+        img:"Mother.jpg",
         author:"Peachey Counselling and Family Therapy",
         date:"March 21, 2023",
         p1:"Mom Guilt: The universal theme of motherhood. Mom guilt starts even before pregnancy! We are inundated with advice on what we should do and not do and during pregnancy that guilt grows worse as friends, family, and the media tell us what kind of mother we are expected to be. Once we have our baby, our own second-guessing and ongoing regret for ‘not being perfect’ eats away at us. We didn’t breastfeed, or make our own organic baby food, or get them into that ‘top’ daycare. Then, as our children grow, we find all new reasons to feel guilty. We either didn’t spend enough time or we spent too much time and that’s why every personality flaw, bad behaviour or negative outcome… is all our fault. But why don’t we ever hear about ‘Dad guilt?’",
