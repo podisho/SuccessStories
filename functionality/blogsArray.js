@@ -178,7 +178,7 @@ var blogs =[
     },
 
     {
-        title:"Inspirational Female Tech Leaders in South Africa",
+        title:"Dr Mmaki Jantjies's Journey in Tech",
         img:"WomenInTech1.jpg",
         author:"HyperionDev Blog",
         date:"February 12, 2022",
@@ -189,7 +189,7 @@ var blogs =[
         views: ""
     },
     {
-        title:"Inspirational Female Tech Leaders in South Africa",
+        title:"Lindiwe Matlali's Journey in Tech",
         img:"WomenInTech2.jpg",
         author:"HyperionDev Blog",
         date:"February 12, 2022",
