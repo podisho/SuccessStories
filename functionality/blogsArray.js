@@ -111,7 +111,7 @@ var blogs =[
 
     {
         title:"How To Visit The North Cape In Norway",
-        img:"Lifestyle1.jpg",
+        img:"norway.jpg",
         author:"Posted by Anil Polat ",
         date:"Jun 13, 2024 ",
         p1:"Getting There: Although it’s a bit remote, getting to the North Cape is pretty straightforward once you get to Norway. You’ll want to get to Alta (the one in Norway, not Alta in Utah which is also great for hiking by the way) and from there you can either take a bus or rent a car. A drive from Alta to North Cape takes roughly 3-4 hours but keep in mind the weather can change rapidly and potentially slow you down.",
@@ -122,7 +122,7 @@ var blogs =[
     },
     {
         title:"CLIMBING MOUNT KILIMANJARO IN AFRICA – A COMPREHENSIVE GUIDE",
-        img:"Lifestyle1.jpg",
+        img:"mount.jpg",
         author:"Lakshmi Sharath",
         date:"Oct 13, 2023",
         p1:"Where is Mount Kilimanjaro Located?: Mount Kilimanjaro is situated in northeastern Tanzania, near the border with Kenya. Its majestic peak rises above the surrounding plains, commanding the attention of all who behold it. The nearest major city to Kilimanjaro is Arusha, a popular starting point for many Kilimanjaro treks.",
@@ -133,7 +133,7 @@ var blogs =[
     },
     {
         title:"Bukit Timah to Bangkok",
-        img:"Lifestyle1.jpg",
+        img:"bangkok.jpg",
         author:"Matthew Woodward",
         date:"December 14, 2023",
         p1:"In the 1920s the southern line in Thailand connected to Malaya and travel was popular by train between Bangkok and Singapore. In the days before sleeper carriages, passengers would stop in local guesthouses, later replaced by railway hotels. International travel by train from Thailand has become quite disjointed lately, so I decided to try the journey from Singapore to Bangkok – not by the Eastern & Oriental Express, but using everyday trains.",
@@ -145,7 +145,7 @@ var blogs =[
 
     {
         title:"Lets Talk About Borderline Personality Disorder",
-        img:"MentalHealth1.jpg",
+        img:"personality.jpg",
         author:"CAITLIN JOHNSON",
         date:"SEPTEMBER 11, 2018",
         p1:"The intention of this post is to talk about my diagnosis. I think I’m mainly going to discuss my thoughts and feelings surrounding the reality of being diagnosed with “Borderline Personality Disorder” (BPD), especially the ones I felt when I was first diagnosed but we’ll see how it goes. This post has been the hardest to write so far. I’m not sure which aspects to focus on or what message I want to get across but anyway, I hope it is still insightful.",
@@ -156,7 +156,7 @@ var blogs =[
     },
     {
         title:"WHAT SOCIAL ANXIETY REALLY FEELS LIKE",
-        img:"MentalHealth2.jpg",
+        img:"anxiety.jpg",
         author:"ANXIOUSLASS",
         date:"13TH FEBRUARY 2017",
         p1:"So you’ve been diagnosed with a Social Anxiety Disorder and you quickly realise how many people just think you’re “a bit shy” or using it as an excuse or even using it to get sympathy or attention. Does that sound about right? That’s if you’ve even told anyone you have it of course because let’s face it, that’s not an easy thing to do when you have social anxiety.It might even get dismissed by some people as a “teenage thing” or a phase you’ll get over but we both know that’s a sack of crap, don’t we?",
@@ -167,7 +167,7 @@ var blogs =[
     },
     {
         title:"The most important things that counselling has taught me",
-        img:"MentalHealth3.jpg",
+        img:"counselling.jpg",
         author:"lydiaontheborderline",
         date:"Jul 1, 2018",
         p1:"If you’ve been diagnosed with a mental illness then you’ve probably been told a million times that it’s good to talk.Being open and honest with your partner, family and friends is definitely a step in the right direction as keeping your feeling bottled up is a recipe for disaster.",
