@@ -76,14 +76,17 @@ var blogs =[
 
     
     {
-        title:"",
-        img:"Enterpreneurship1.jpg",
-        author:"",
-        date:"",
-        p1:"",
-        p2:"",
-        p3:"", 
-        category: "Enterpreneurship", 
+        title:"Smart Money-Saving Strategies for  business owners",
+        img:"e3.png",
+        author:"Lisa",
+        date:"9 April 2024",
+        p1:"In the competitive landscape of entrepreneurship, every penny counts. Here at eWomenNetwork, when our members talk, we listen, and money-saving strategies are often on their minds. For businesses small, medium, and large, managing finances efficiently is a critical component of sustainable growth – from trimming unnecessary expenses to optimizing operations.Read on for a few strategies we’ve identified that can help women entrepreneurs save money without compromising on quality or vision.",
+        p2:" Investing in the right technology can streamline operations and reduce costs in the long run. From organizing teams and projects, to drafting documents and emails, technology can automate processes, minimize errors, and increase productivity. A few of our favorites here at eWN Headquarters include Asana (Project Management), Later (Social Media Marketing), and ChatGPT (AI-Powered Composition).",
+        p3:"Establishing strong supplier relationships and engaging in regular communication can result in significant savings. For starters, explore securing discounts for bulk or reoccurring purchases. When it comes to billing, renegotiating payment terms on a regular basis can also trim the budget. Plus, local alternatives to national or international vendors can reduce transportation costs.", 
+        category: "Enterpreneurship",
+        p4:"Analyzing processes and identifying areas for improvement can help optimize efficiency and reduce costs. Cross-training staffers on redundant tasks can add up to substantial time – and therefore, money – savings. Similarly, periodic reviews of inventory management and procurement procedures are essential. Try encouraging employee feedback, as well, to generate innovative budgeting ideas from within." ,
+        p5:"For tasks outside the core competencies of the business, outsourcing can be a cost-effective solution. Additionally, outsourcing allows small-to-medium businesses to access expertise and resources that may not be available in-house, from accounting to information technology to graphic design.",
+        p6:"Last, but certainly not least, implementing energy-efficient practices reduces environmental impact and lowers costs. Simple measures such as upgrading to energy-efficient appliances, installing programmable thermostats, and in-office recycling programs can lead to significant savings while supporting sustainability efforts.",
         views:""
     },
     {
@@ -95,18 +98,18 @@ var blogs =[
         p2:" I believe I am the only virtual French-language program that teaches both parents and children at the same time. I think this is such an important way to learn a new language for a family, because the practice can continue beyond class.",
         p3:"Having taught over 5,000 households to date. I find it absolutely incredible to know that there are so many children who are now growing up to be bilingual because of 123 Petits Pas. Several parents have expressed that they would not have had the support or resources to learn French had they not found 123 Petits Pas – that is a wonderful feeling!", 
         category: "Enterpreneurship", 
-        views:""
+        views:"400"
     },
     {
-        title:"",
-        img:"Enterpreneurship3.jpeg",
+        title:"Digital marketing quick start guide foe small business owners",
+        img:"e2.png",
         author:"",
         date:"",
-        p1:"",
-        p2:"",
-        p3:"", 
+        p1:"As a small business owner, you wear many hats. In fact, some days it can feel like you’re changing hats by the hour. From accounting to staffing to sales, you’re pulled in many directions – and one area with great potential to boost your bottom line often gets too little attention. ",
+        p2:"Start by launching profiles on one or two social media platforms where your target audience is most active. For most small businesses, Facebook and Instagram are great starting points. Choose a platform, create a business profile, and upload a profile picture.",
+        p3:"Use a tool like Semrush to find relevant keywords for your business. Focus on long-tail keywords (phrases with 3-5 words) as they are often less competitive and more specific to your audience's needs. Utilize these keywords throughout the copy on your website and in blog posts .A great place to start is writing blog posts that address common questions among your audience. This provides value while positioning you as an authority in your field.Start by sending newsletters bi-weekly or monthly; services like Constant Contact make it easy to design, test, and schedule marketing emails. Keep the content concise and relevant to your business, including links to your blog posts, social media platforms, team member profiles, or current events.", 
         category: "Enterpreneurship", 
-        views:""
+        views:"345"
     },
 
     {
