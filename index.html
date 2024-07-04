@@ -18,9 +18,8 @@
         <nav>
             <a href="#">Home</a>
             <a href="#">About Us</a>
-            <a href="#">Success Stories</a>
-            <a href="#">Digital Team</a>
-            <a href="#">Contact Us</a>
+            <i class="fa-solid fa-magnifying-glass" id="search-icon"></i>  
+            <input type="search" id="search-bar" placeholder="Search For Story...">
         </nav>
      </header>
      <!--navigation bar ends here-->
@@ -147,7 +146,7 @@
             return `
             <div class="blogCard">
                 <div class="blogPhotoContainer">
-                <images src="./images/${blog.images}" alt="blog photo" class="blogPhoto">
+                <img src="images/${blog.img}" alt="blog photo" class="blogPhoto">
                 </div>
                 <h3 class="blogTitle">${blog.title}</h3>
                 <p class="blogSummary">${blog.p1}</p>
