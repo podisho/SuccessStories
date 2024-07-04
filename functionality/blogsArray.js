@@ -71,7 +71,7 @@ var blogs =[
         p9:"Parenting Solo: If you are a single mom, were raised by a single mom or know one, you know that most single mothers are challenged by sleep deprivation, stigma, conflict with their ex-partner, and financial insecurity. Many single moms rely on multiple minimum wage jobs that keep them just above or below the poverty level — even when they’re working full time. Not surprisingly, poverty and economic hardship are linked to anxiety and depression and many single moms - while doing an unbelievable job - are paying the cost with their mental well-being.",
         p10:"Gender Roles and Expectations: Even though the women’s movement has made great strides since the time of our mothers, we still face gender-based discrimination, abuse and unrealistic expectations.  Outside of the home, women are routinely paid less than men for the same job, are penalized for taking maternity leave, and are discriminated against just because they have children. Organizations, businesses and culture in general just assumes men are the primary breadwinners and that women are out earning ‘extra’ money. At home, although male parents are starting to take on more responsibilities that traditionally fall under the ‘mom’ role, the majority of women are still viewed and expected to do all of the ‘female’ duties… taking care of the children, cleaning, laundry, getting groceries, cooking, etc., etc., The harmful effects of these societal gender roles and expectations?  Most women suffer in silence - with higher rates of depression, anxiety and exhaustion - being the result.",
         category: "Motherhood", 
-        views:"60"
+        views:"660"
     },
 
     
@@ -143,7 +143,7 @@ var blogs =[
         p2:"I have to confess to flying down to Singapore, and after an interesting night in Chinatown I met up with my travel partner for this adventure, Richard Barrow. Richard was an indispensable part of the trip as he managed to get nearly all the tickets in advance.",
         p3:"In a strange feature of international relations, Singapore did not own or operate its own railway. The two stations on the island were operated by KTM, the Malaysian railway until 2011. Today the two historic stations of Bukit Timah and Tanjong Pagar are preserved, but no longer operational. The challenge at the start of this journey is leaving Singapore. Today there is no direct train service, you have to get a five minute shuttle train from Woodlands across the causeway to JB Town (Johor Bahru). This isn’t as easy as might be, as it is busy and gets sold out, so you have to buy tickets well in advance.", 
         category: "Lifestyle", 
-        views:"90"
+        views:"590"
     },
 
     {

@@ -177,6 +177,8 @@ for (let i = 0; i < Math.min(3, blogs.length); i++) {
 }
 document.querySelector("#tab1 .blogsContainer").innerHTML = trendingBlogs;
 
+// display other blogs in other tabs
+
             blogs.forEach(blog => {
             if (categories[blog.category]) {
                 categories[blog.category].innerHTML += createBlogCard(blog);
