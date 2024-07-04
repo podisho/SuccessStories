@@ -87,13 +87,13 @@ var blogs =[
         views:""
     },
     {
-        title:"",
-        img:"Enterpreneurship2.jpg",
-        author:"",
-        date:"",
-        p1:"",
-        p2:"",
-        p3:"", 
+        title:"Her Business Helps Youngsters Learn French Avec Leurs Parents",
+        img:"entrepreneur1.jpg",
+        author:"Victoria flexner",
+        date:"19 February 2024",
+        p1:"Amy Maan is an educator by trade who worked as an in-school French teacher prior to the onset of Covid. When she became pregnant with her first child, she knew she wanted to stay home with her son – and that she wanted to raise him to be bilingual. It was during a Mom & Baby Yoga class that the idea for her business fully came to her. She had found the experience of learning something while simultaneously caring for her baby to be wonderful – what if she could teach French to both parents and their children? Soon after her moment of inspiration, Maan launched her education company, 123 Petit Pas. Today, the Ottawa, Canada-based mompreneur teaches virtual French classes to adults and their young wards across the globe through her company – all while working from home and caring for her own kids. ",
+        p2:" I believe I am the only virtual French-language program that teaches both parents and children at the same time. I think this is such an important way to learn a new language for a family, because the practice can continue beyond class.",
+        p3:"Having taught over 5,000 households to date. I find it absolutely incredible to know that there are so many children who are now growing up to be bilingual because of 123 Petits Pas. Several parents have expressed that they would not have had the support or resources to learn French had they not found 123 Petits Pas – that is a wonderful feeling!", 
         category: "Enterpreneurship", 
         views:""
     },
