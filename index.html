@@ -167,6 +167,18 @@
             //"WhatsTrending": document.querySelector("#tab1 .blogsContainer"), // Default to tab1 for any missing category
             };
 
+            // Sort blogs by views in descending order
+    blogs.sort((a, b) => b.views - a.views);
+
+// Display the first 3 blogs in the "What's Trending" tab
+let trendingBlogs = "";
+for (let i = 0; i < Math.min(3, blogs.length); i++) {
+    trendingBlogs += createBlogCard(blogs[i]);
+}
+document.querySelector("#tab1 .blogsContainer").innerHTML = trendingBlogs;
+
+// display other blogs in other tabs
+
             blogs.forEach(blog => {
             if (categories[blog.category]) {
                 categories[blog.category].innerHTML += createBlogCard(blog);
