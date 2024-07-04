@@ -53,7 +53,7 @@ var blogs =[
         p2:"In 2020, there were roughly 4.25 million Black families in the United States with a single mother, according to nationwide statistics. This is an uptick from 1990 rates of about 3.4 million Black families being raised by a single mother. In Detroit, according to Smartest Dollar, 72% of single mothers are raising their children solo.",
         p3:"Be part of our first-ever audience survey. This is your chance to let us know how you think we’re doing, who you are, what issues you care about, and what stories you want to read. It only takes five minutes and can directly shape our plan for 2022. Even beyond babysitting needs, single mothers looking for more resources and assistance might not always know how to navigate but there is help with several organizations eager to aid single mothers, especially Black women, allowing them to blossom.", 
         category: "Motherhood", 
-        views:"“Our issues often get pushed to the back burner and COVID made it abundantly clear that … mothers and mothers of color and Black mothers hold their communities in times like this, but we should be prioritizing their needs so that our communities can thrive,” Danielle Atkinson, national executive director and founder of local non-profit organization Mothering Justice, said.",
+        views:""
     },
     {
         title:"Top 10 Challenges of the Modern Mom",
@@ -186,7 +186,7 @@ var blogs =[
         p2:"Dr Jantjies holds the prestigious Group Executive of Innovation and Transformation role at TELKOM and is an Associate Professor in Information Systems at the University of the Western Cape (UWC). Here her research focuses on developing mobile learning software systems in STEM subjects that will be accessible in all South African languages. ",
         p3:"Concerned with how few women have access to careers in tech in SA, she encourages her students to join the Mozilla and UN Women technology clubs for young girls. In these tech clubs, young girls from Cape Town township high schools can learn ICT skills and are encouraged to take the leap into a career in tech. Casting her net wider to help women across Africa, she co-founded Peo ya Phetogo (PYP), a non-profit dedicated to digital skills development among our youth, schools, teachers and communities.", 
         category: "WomenInTech", 
-        views:"“Being able to impact society through education and research on technology is the most fulfilling experience as you always see the impact of the change you bring in your greater society.”"
+        views: ""
     },
     {
         title:"Lindiwe Matlali's Journey in Tech",
@@ -197,7 +197,7 @@ var blogs =[
         p2:"She started out by studying BCom economics and statistics at UCT. After a decade of working, she completed a course in executive education and data analysis with Harvard Business School. She is currently studying towards her Masters in Technology Management from Columbia University in New York, as well as a Graduate Certificate in Entrepreneurship and Innovation at Stanford University. She has won multiple awards, among them Excellence in STEM from the Charlotte Maxeke Institute, Social Innovator of the Year by the Schwab Foundation, and was named one of the Mail & Guardian 50 Powerful Women in SA in 2021.",
         p3:"Her exposure to some of the world’s leading educational institutions has led to an exciting position with the Presidential Commission on the Fourth Industrial Revolution (4IR), which aims to help the government seize opportunities presented by the digital industrial revolution. The venture we’re most impressed with is her role as founder and CEO of Africa Teen Geeks, an NGO that teaches kids how to code. Teen Geeks is the largest computer science non-profit organisation in Africa and has one clear goal: to educate, inspire and equip young people with skills, resources and experience to pursue STEM careers and close the opportunity gap through quality education.", 
         category: "WomenInTech", 
-        views:"“An integral part of empowering women is showing them that tasks traditionally labelled as ‘women’s work’ are complex and important and hold many of the same technical challenges as anything men do.”"
+        views: ""
     },
     {
         title:"Inspirational Female Tech Leaders in South Africa",
@@ -208,7 +208,7 @@ var blogs =[
         p2:"Unlike our other tech heroines, Thembiso has no formal education in technology. However, when she decided she wanted a future in IT, she spent her free time reading Computer Programming For Dummies, watching Youtube tutorials, and studying various online coding and IT courses. Soon she was teaching her niece and friends basic coding in her sister’s garage, with limited wifi and only one laptop between them. That inspired her to launch Social Coding. Her background and training in finance has stood her in good stead, helping her secure funds and creating multiple revenue streams for her nonprofit.",
         p3:"Thembiso’s passion and drive have catapulted her into one of South Africa’s most recognised female tech movers and shakers. She has been recognised as a World Economic Forum Global Shaper and is an accomplished TEDx Speaker. In 2019 she was named one of the 50 most inspiring women in tech by @InspiringFifty SA, a non-profit that aims to increase diversity in tech by making female role models more visible. Her nonprofit, Social Coding, is where she has made a huge difference to thousands of disadvantaged girls and women. The technical workshops cover software development and design thinking and teach girls to be initiators, conceptualists, shapers, and drivers of innovative and strategic problem-solving.", 
         category: "WomenInTech", 
-        views:"“Teach one girl to code and she’ll teach 22 more because women are by nature change agents, and by doing so, we’ll solidify the economy of our nation for years to come.”"
+        views: ""
     },
 
 ];
