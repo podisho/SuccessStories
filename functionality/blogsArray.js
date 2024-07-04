@@ -35,7 +35,7 @@ var blogs =[
 
     {
         title:"From Joy to Fear: The Alarming Truth About Black Motherhood",
-        img:"motherhood1.jpg",
+        img:"Motherhood1.jpg",
         author:"Erica Marshall-Lee and Frances C. Calkins",
         date:"November 1, 2023",
         p1:"I am angry. I am disappointed. I am discouraged. I am confused. Once again, this is nothing new. Why this time, you ask? My instinct is to reply with the sardonic response, “Why not?” because, let’s face it, there is a multitude of reasons that African-descended women in the United States are angry, disappointed, discouraged, and confused.",
@@ -46,7 +46,7 @@ var blogs =[
     },
     {
         title:"WordinBlack Black Single Mothers Can Do It Alone But Why Should They Have To When Resources Are All Around",
-        img:"motherhood2.png",
+        img:"Motherhood2.jpg",
         author:"Sherri Kolade",
         date:"March 15, 2022",
         p1:"For Black mothers who need assistance, especially those who are on the lower rungs of the economic ladder, it can be hard enough to find them while they are busy rearing children, being the sole breadwinner, and being the emotional and foundational support 24/7 with no immediate relief in sight. The adage “it takes a village to raise a child” especially still rings true for the many single mothers who have no choice but to rely on family and friends to babysit their children and provide extended support for them when daycare is too costly and many times out of the question.",
@@ -57,7 +57,7 @@ var blogs =[
     },
     {
         title:"Top 10 Challenges of the Modern Mom",
-        img:"motherhood3.jpeg",
+        img:"Mother.jpg",
         author:"Peachey Counselling and Family Therapy",
         date:"March 21, 2023",
         p1:"Mom Guilt: The universal theme of motherhood. Mom guilt starts even before pregnancy! We are inundated with advice on what we should do and not do and during pregnancy that guilt grows worse as friends, family, and the media tell us what kind of mother we are expected to be. Once we have our baby, our own second-guessing and ongoing regret for ‘not being perfect’ eats away at us. We didn’t breastfeed, or make our own organic baby food, or get them into that ‘top’ daycare. Then, as our children grow, we find all new reasons to feel guilty. We either didn’t spend enough time or we spent too much time and that’s why every personality flaw, bad behaviour or negative outcome… is all our fault. But why don’t we ever hear about ‘Dad guilt?’",
@@ -114,7 +114,7 @@ var blogs =[
 
     {
         title:"How To Visit The North Cape In Norway",
-        img:"Lifestyle1.jpg",
+        img:"norway.jpg",
         author:"Posted by Anil Polat ",
         date:"Jun 13, 2024 ",
         p1:"Getting There: Although it’s a bit remote, getting to the North Cape is pretty straightforward once you get to Norway. You’ll want to get to Alta (the one in Norway, not Alta in Utah which is also great for hiking by the way) and from there you can either take a bus or rent a car. A drive from Alta to North Cape takes roughly 3-4 hours but keep in mind the weather can change rapidly and potentially slow you down.",
@@ -125,7 +125,7 @@ var blogs =[
     },
     {
         title:"CLIMBING MOUNT KILIMANJARO IN AFRICA – A COMPREHENSIVE GUIDE",
-        img:"Lifestyle1.jpg",
+        img:"mount.jpg",
         author:"Lakshmi Sharath",
         date:"Oct 13, 2023",
         p1:"Where is Mount Kilimanjaro Located?: Mount Kilimanjaro is situated in northeastern Tanzania, near the border with Kenya. Its majestic peak rises above the surrounding plains, commanding the attention of all who behold it. The nearest major city to Kilimanjaro is Arusha, a popular starting point for many Kilimanjaro treks.",
@@ -136,7 +136,7 @@ var blogs =[
     },
     {
         title:"Bukit Timah to Bangkok",
-        img:"Lifestyle1.jpg",
+        img:"bangkok.jpg",
         author:"Matthew Woodward",
         date:"December 14, 2023",
         p1:"In the 1920s the southern line in Thailand connected to Malaya and travel was popular by train between Bangkok and Singapore. In the days before sleeper carriages, passengers would stop in local guesthouses, later replaced by railway hotels. International travel by train from Thailand has become quite disjointed lately, so I decided to try the journey from Singapore to Bangkok – not by the Eastern & Oriental Express, but using everyday trains.",
@@ -148,7 +148,7 @@ var blogs =[
 
     {
         title:"Lets Talk About Borderline Personality Disorder",
-        img:"MentalHealth1.jpg",
+        img:"personality.jpg",
         author:"CAITLIN JOHNSON",
         date:"SEPTEMBER 11, 2018",
         p1:"The intention of this post is to talk about my diagnosis. I think I’m mainly going to discuss my thoughts and feelings surrounding the reality of being diagnosed with “Borderline Personality Disorder” (BPD), especially the ones I felt when I was first diagnosed but we’ll see how it goes. This post has been the hardest to write so far. I’m not sure which aspects to focus on or what message I want to get across but anyway, I hope it is still insightful.",
@@ -159,7 +159,7 @@ var blogs =[
     },
     {
         title:"WHAT SOCIAL ANXIETY REALLY FEELS LIKE",
-        img:"MentalHealth2.jpg",
+        img:"anxiety.jpg",
         author:"ANXIOUSLASS",
         date:"13TH FEBRUARY 2017",
         p1:"So you’ve been diagnosed with a Social Anxiety Disorder and you quickly realise how many people just think you’re “a bit shy” or using it as an excuse or even using it to get sympathy or attention. Does that sound about right? That’s if you’ve even told anyone you have it of course because let’s face it, that’s not an easy thing to do when you have social anxiety.It might even get dismissed by some people as a “teenage thing” or a phase you’ll get over but we both know that’s a sack of crap, don’t we?",
@@ -170,7 +170,7 @@ var blogs =[
     },
     {
         title:"The most important things that counselling has taught me",
-        img:"MentalHealth3.jpg",
+        img:"counselling.jpg",
         author:"lydiaontheborderline",
         date:"Jul 1, 2018",
         p1:"If you’ve been diagnosed with a mental illness then you’ve probably been told a million times that it’s good to talk.Being open and honest with your partner, family and friends is definitely a step in the right direction as keeping your feeling bottled up is a recipe for disaster.",
@@ -182,7 +182,7 @@ var blogs =[
 
     {
         title:"Dr Mmaki Jantjies's Journey in Tech",
-        img:"WomenInTech1.jpg",
+        img:"Mmaki_Jantjies.original.jpg",
         author:"HyperionDev Blog",
         date:"February 12, 2022",
         p1:"Capetonian Dr Mmaki Jantjies is on a mission to disrupt the South African educational system. A computer scientist with a passion for how technological innovations can improve society, she has a CV the length of the Hubble space telescope’s code – and the experience to execute it! After completing her Honours in informatics at the University of Pretoria, she moved to the UK where she studied for her Master’s degree in computing at Oxford Brookes University, followed by her PhD in computer science at the University of Warwick.  She is a research member at the United Nations University that merges ICT with global sustainable development goals.",
@@ -193,7 +193,7 @@ var blogs =[
     },
     {
         title:"Lindiwe Matlali's Journey in Tech",
-        img:"WomenInTech2.jpg",
+        img:"Lindiwe-Matlali-Board-scaled.jpg",
         author:"HyperionDev Blog",
         date:"February 12, 2022",
         p1:"Gauteng native Lindiwe Matlali is a multiple tech industry and business leader award-winner who holds a number of board memberships and has been – and still is – involved in both grass-roots and government-level initiatives that aim to inspire Africa’s next generation of innovators and entrepreneurs.",
@@ -204,7 +204,7 @@ var blogs =[
     },
     {
         title:"Inspirational Female Tech Leaders in South Africa",
-        img:"WomenInTech3.jpg",
+        img:"Lindi.jpg",
         author:"HyperionDev Blog",
         date:"February 12, 2022",
         p1:"Thembiso Magajana is a self-confessed technophile from Gauteng who spent a decade in the financial sector before she found her true calling in code. It was a conversation with her then six-year-old niece who wanted to be the world’s next Steve Jobs – and being dismayed at how few black women there were in tech – that inspired her to leave the world of finance. Within months she was fully immersed in creating pathways for South African township youth to be part of the 4th Industrial Revolution.",
