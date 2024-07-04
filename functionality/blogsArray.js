@@ -45,7 +45,7 @@ var blogs =[
         views:""
     },
     {
-        title:"#WordinBlack Black Single Mothers Can Do It Alone But Why Should They Have To When Resources Are All Around",
+        title:"WordinBlack Black Single Mothers Can Do It Alone But Why Should They Have To When Resources Are All Around",
         img:"motherhood2.png",
         author:"Sherri Kolade",
         date:"March 15, 2022",
