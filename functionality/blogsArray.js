@@ -35,29 +35,29 @@ var blogs =[
 
     {
         title:"From Joy to Fear: The Alarming Truth About Black Motherhood",
-        img:"motherhood1.jpg",
+        img:"Motherhood1.jpg",
         author:"Erica Marshall-Lee and Frances C. Calkins",
         date:"November 1, 2023",
         p1:"I am angry. I am disappointed. I am discouraged. I am confused. Once again, this is nothing new. Why this time, you ask? My instinct is to reply with the sardonic response, “Why not?” because, let’s face it, there is a multitude of reasons that African-descended women in the United States are angry, disappointed, discouraged, and confused.",
         p2:"On this occasion, I am referring to the fact that 11 months ago, my daughter gave birth to two beautiful baby boys. I should have been excited with the anticipation of holding my newest grands, but I wasn’t. I was utterly terrified. I wasn’t worried about her babies. I was worried about my baby. While some might chalk this up to being an overprotective mama bear (which is an identity that I am quite proud of), this is a product of widespread systemic racism exacted against Black and Brown bodies.",
         p3:"The chilling truth is that Black women are three times more likely to die from pregnancy-related complications than White women, and Black infants are two times more likely to die before they turn one. These complications include cardiac conditions, excessive bleeding, infections, blood clots, hypertension disorders, and, most prominently, mental health conditions", 
         category: "Motherhood", 
-        views:"75"
+        views:"80"
     },
     {
         title:"WordinBlack Black Single Mothers Can Do It Alone But Why Should They Have To When Resources Are All Around",
-        img:"motherhood2.png",
+        img:"Motherhood2.jpg",
         author:"Sherri Kolade",
         date:"March 15, 2022",
         p1:"For Black mothers who need assistance, especially those who are on the lower rungs of the economic ladder, it can be hard enough to find them while they are busy rearing children, being the sole breadwinner, and being the emotional and foundational support 24/7 with no immediate relief in sight. The adage “it takes a village to raise a child” especially still rings true for the many single mothers who have no choice but to rely on family and friends to babysit their children and provide extended support for them when daycare is too costly and many times out of the question.",
         p2:"In 2020, there were roughly 4.25 million Black families in the United States with a single mother, according to nationwide statistics. This is an uptick from 1990 rates of about 3.4 million Black families being raised by a single mother. In Detroit, according to Smartest Dollar, 72% of single mothers are raising their children solo.",
         p3:"Be part of our first-ever audience survey. This is your chance to let us know how you think we’re doing, who you are, what issues you care about, and what stories you want to read. It only takes five minutes and can directly shape our plan for 2022. Even beyond babysitting needs, single mothers looking for more resources and assistance might not always know how to navigate but there is help with several organizations eager to aid single mothers, especially Black women, allowing them to blossom.", 
         category: "Motherhood", 
-        views:"80"
+        views:"60"
     },
     {
         title:"Top 10 Challenges of the Modern Mom",
-        img:"motherhood3.jpeg",
+        img:"Mother.jpg",
         author:"Peachey Counselling and Family Therapy",
         date:"March 21, 2023",
         p1:"Mom Guilt: The universal theme of motherhood. Mom guilt starts even before pregnancy! We are inundated with advice on what we should do and not do and during pregnancy that guilt grows worse as friends, family, and the media tell us what kind of mother we are expected to be. Once we have our baby, our own second-guessing and ongoing regret for ‘not being perfect’ eats away at us. We didn’t breastfeed, or make our own organic baby food, or get them into that ‘top’ daycare. Then, as our children grow, we find all new reasons to feel guilty. We either didn’t spend enough time or we spent too much time and that’s why every personality flaw, bad behaviour or negative outcome… is all our fault. But why don’t we ever hear about ‘Dad guilt?’",
@@ -76,14 +76,17 @@ var blogs =[
 
     
     {
-        title:"",
-        img:"Enterpreneurship1.jpg",
-        author:"",
-        date:"",
-        p1:"",
-        p2:"",
-        p3:"", 
-        category: "Enterpreneurship", 
+        title:"Smart Money-Saving Strategies for  business owners",
+        img:"e3.png",
+        author:"Lisa",
+        date:"9 April 2024",
+        p1:"In the competitive landscape of entrepreneurship, every penny counts. Here at eWomenNetwork, when our members talk, we listen, and money-saving strategies are often on their minds. For businesses small, medium, and large, managing finances efficiently is a critical component of sustainable growth – from trimming unnecessary expenses to optimizing operations.Read on for a few strategies we’ve identified that can help women entrepreneurs save money without compromising on quality or vision.",
+        p2:" Investing in the right technology can streamline operations and reduce costs in the long run. From organizing teams and projects, to drafting documents and emails, technology can automate processes, minimize errors, and increase productivity. A few of our favorites here at eWN Headquarters include Asana (Project Management), Later (Social Media Marketing), and ChatGPT (AI-Powered Composition).",
+        p3:"Establishing strong supplier relationships and engaging in regular communication can result in significant savings. For starters, explore securing discounts for bulk or reoccurring purchases. When it comes to billing, renegotiating payment terms on a regular basis can also trim the budget. Plus, local alternatives to national or international vendors can reduce transportation costs.", 
+        category: "Enterpreneurship",
+        p4:"Analyzing processes and identifying areas for improvement can help optimize efficiency and reduce costs. Cross-training staffers on redundant tasks can add up to substantial time – and therefore, money – savings. Similarly, periodic reviews of inventory management and procurement procedures are essential. Try encouraging employee feedback, as well, to generate innovative budgeting ideas from within." ,
+        p5:"For tasks outside the core competencies of the business, outsourcing can be a cost-effective solution. Additionally, outsourcing allows small-to-medium businesses to access expertise and resources that may not be available in-house, from accounting to information technology to graphic design.",
+        p6:"Last, but certainly not least, implementing energy-efficient practices reduces environmental impact and lowers costs. Simple measures such as upgrading to energy-efficient appliances, installing programmable thermostats, and in-office recycling programs can lead to significant savings while supporting sustainability efforts.",
         views:""
     },
     {
@@ -95,18 +98,18 @@ var blogs =[
         p2:" I believe I am the only virtual French-language program that teaches both parents and children at the same time. I think this is such an important way to learn a new language for a family, because the practice can continue beyond class.",
         p3:"Having taught over 5,000 households to date. I find it absolutely incredible to know that there are so many children who are now growing up to be bilingual because of 123 Petits Pas. Several parents have expressed that they would not have had the support or resources to learn French had they not found 123 Petits Pas – that is a wonderful feeling!", 
         category: "Enterpreneurship", 
-        views:"75"
+        views:"400"
     },
     {
-        title:"",
-        img:"Enterpreneurship3.jpeg",
+        title:"Digital marketing quick start guide foe small business owners",
+        img:"e2.png",
         author:"",
         date:"",
-        p1:"",
-        p2:"",
-        p3:"", 
+        p1:"As a small business owner, you wear many hats. In fact, some days it can feel like you’re changing hats by the hour. From accounting to staffing to sales, you’re pulled in many directions – and one area with great potential to boost your bottom line often gets too little attention. ",
+        p2:"Start by launching profiles on one or two social media platforms where your target audience is most active. For most small businesses, Facebook and Instagram are great starting points. Choose a platform, create a business profile, and upload a profile picture.",
+        p3:"Use a tool like Semrush to find relevant keywords for your business. Focus on long-tail keywords (phrases with 3-5 words) as they are often less competitive and more specific to your audience's needs. Utilize these keywords throughout the copy on your website and in blog posts .A great place to start is writing blog posts that address common questions among your audience. This provides value while positioning you as an authority in your field.Start by sending newsletters bi-weekly or monthly; services like Constant Contact make it easy to design, test, and schedule marketing emails. Keep the content concise and relevant to your business, including links to your blog posts, social media platforms, team member profiles, or current events.", 
         category: "Enterpreneurship", 
-        views:""
+        views:"345"
     },
 
     {
@@ -129,7 +132,7 @@ var blogs =[
         p2:"How to Get There: The most common way to reach Kilimanjaro is by flying into Kilimanjaro International Airport (JRO), located approximately 46 kilometers (29 miles) from Arusha. Several international airlines offer direct flights to Kilimanjaro Airport from major cities in Europe, the Middle East, and other parts of Africa. Upon arrival, you can arrange transportation to your accommodation in Arusha, where your Kilimanjaro adventure will begin.",
         p3:"When is the Best Time to Climb: Late December to early March and mid-June to late October are the best times for a Kilimanjaro climb. This is when the Kilimanjaro weather is nearly ideal. Seven days is the ideal duration of the expedition.", 
         category: "Lifestyle", 
-        views:"60"
+        views:"79"
     },
     {
         title:"Bukit Timah to Bangkok",
@@ -140,7 +143,7 @@ var blogs =[
         p2:"I have to confess to flying down to Singapore, and after an interesting night in Chinatown I met up with my travel partner for this adventure, Richard Barrow. Richard was an indispensable part of the trip as he managed to get nearly all the tickets in advance.",
         p3:"In a strange feature of international relations, Singapore did not own or operate its own railway. The two stations on the island were operated by KTM, the Malaysian railway until 2011. Today the two historic stations of Bukit Timah and Tanjong Pagar are preserved, but no longer operational. The challenge at the start of this journey is leaving Singapore. Today there is no direct train service, you have to get a five minute shuttle train from Woodlands across the causeway to JB Town (Johor Bahru). This isn’t as easy as might be, as it is busy and gets sold out, so you have to buy tickets well in advance.", 
         category: "Lifestyle", 
-        views:"75"
+        views:"90"
     },
 
     {
@@ -163,7 +166,7 @@ var blogs =[
         p2:"Having a Social Anxiety Disorder is far more serious than being a bit shy, having stomach jitters or going through an awkward teen phase. It can severely affect your day-to-day life. So much that you may find it extremely difficult to go to school or work, make friends and maintain friendships, do typical daily tasks that require being out of the house or in public, use the telephone, have a conversation, be seen outdoors, go to events/parties, try new things… shit, even having the smallest of responsibilities can fuck you up. It can be hard telling people what social anxiety really feels like because it’s often confusing and complex to us",
         p3:"Obviously social anxiety affects everyone in different ways and something that one person may find difficult may not be the same for another person with social anxiety, we may not all be triggered the same way or have the same level of severity but one thing is for sure, if we don’t treat it or get a handle on it, it can stop us from living our lives properly.", 
         category: "MentalHealth", 
-        views:"80"
+        views:"100"
     },
     {
         title:"The most important things that counselling has taught me",
@@ -174,23 +177,23 @@ var blogs =[
         p2:"But the truth is sometimes your nearest and dearest – no matter how hard the try – don’t always say the right thing, because they’re not trained in how to deal with your illness.",
         p3:"That’s when talking to a professional counsellor can really help, because you can get more than just comfort and reassurance – you can actually learn the skills to get better.", 
         category: "MentalHealth", 
-        views:"75"
+        views:"60"
     },
 
     {
         title:"Dr Mmaki Jantjies's Journey in Tech",
-        img:"WomenInTech1.jpg",
+        img:"Mmaki_Jantjies.original.jpg",
         author:"HyperionDev Blog",
         date:"February 12, 2022",
         p1:"Capetonian Dr Mmaki Jantjies is on a mission to disrupt the South African educational system. A computer scientist with a passion for how technological innovations can improve society, she has a CV the length of the Hubble space telescope’s code – and the experience to execute it! After completing her Honours in informatics at the University of Pretoria, she moved to the UK where she studied for her Master’s degree in computing at Oxford Brookes University, followed by her PhD in computer science at the University of Warwick.  She is a research member at the United Nations University that merges ICT with global sustainable development goals.",
         p2:"Dr Jantjies holds the prestigious Group Executive of Innovation and Transformation role at TELKOM and is an Associate Professor in Information Systems at the University of the Western Cape (UWC). Here her research focuses on developing mobile learning software systems in STEM subjects that will be accessible in all South African languages. ",
         p3:"Concerned with how few women have access to careers in tech in SA, she encourages her students to join the Mozilla and UN Women technology clubs for young girls. In these tech clubs, young girls from Cape Town township high schools can learn ICT skills and are encouraged to take the leap into a career in tech. Casting her net wider to help women across Africa, she co-founded Peo ya Phetogo (PYP), a non-profit dedicated to digital skills development among our youth, schools, teachers and communities.", 
         category: "WomenInTech", 
-        views: "80"
+        views: "70"
     },
     {
         title:"Lindiwe Matlali's Journey in Tech",
-        img:"WomenInTech2.jpg",
+        img:"Lindiwe-Matlali-Board-scaled.jpg",
         author:"HyperionDev Blog",
         date:"February 12, 2022",
         p1:"Gauteng native Lindiwe Matlali is a multiple tech industry and business leader award-winner who holds a number of board memberships and has been – and still is – involved in both grass-roots and government-level initiatives that aim to inspire Africa’s next generation of innovators and entrepreneurs.",
@@ -201,14 +204,14 @@ var blogs =[
     },
     {
         title:"Inspirational Female Tech Leaders in South Africa",
-        img:"WomenInTech3.jpg",
+        img:"Lindi.jpg",
         author:"HyperionDev Blog",
         date:"February 12, 2022",
         p1:"Thembiso Magajana is a self-confessed technophile from Gauteng who spent a decade in the financial sector before she found her true calling in code. It was a conversation with her then six-year-old niece who wanted to be the world’s next Steve Jobs – and being dismayed at how few black women there were in tech – that inspired her to leave the world of finance. Within months she was fully immersed in creating pathways for South African township youth to be part of the 4th Industrial Revolution.",
         p2:"Unlike our other tech heroines, Thembiso has no formal education in technology. However, when she decided she wanted a future in IT, she spent her free time reading Computer Programming For Dummies, watching Youtube tutorials, and studying various online coding and IT courses. Soon she was teaching her niece and friends basic coding in her sister’s garage, with limited wifi and only one laptop between them. That inspired her to launch Social Coding. Her background and training in finance has stood her in good stead, helping her secure funds and creating multiple revenue streams for her nonprofit.",
         p3:"Thembiso’s passion and drive have catapulted her into one of South Africa’s most recognised female tech movers and shakers. She has been recognised as a World Economic Forum Global Shaper and is an accomplished TEDx Speaker. In 2019 she was named one of the 50 most inspiring women in tech by @InspiringFifty SA, a non-profit that aims to increase diversity in tech by making female role models more visible. Her nonprofit, Social Coding, is where she has made a huge difference to thousands of disadvantaged girls and women. The technical workshops cover software development and design thinking and teach girls to be initiators, conceptualists, shapers, and drivers of innovative and strategic problem-solving.", 
         category: "WomenInTech", 
-        views: "60"
+        views: "78"
     },
 
 ];
