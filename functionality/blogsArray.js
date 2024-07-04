@@ -42,7 +42,7 @@ var blogs =[
         p2:"On this occasion, I am referring to the fact that 11 months ago, my daughter gave birth to two beautiful baby boys. I should have been excited with the anticipation of holding my newest grands, but I wasn’t. I was utterly terrified. I wasn’t worried about her babies. I was worried about my baby. While some might chalk this up to being an overprotective mama bear (which is an identity that I am quite proud of), this is a product of widespread systemic racism exacted against Black and Brown bodies.",
         p3:"The chilling truth is that Black women are three times more likely to die from pregnancy-related complications than White women, and Black infants are two times more likely to die before they turn one. These complications include cardiac conditions, excessive bleeding, infections, blood clots, hypertension disorders, and, most prominently, mental health conditions", 
         category: "Motherhood", 
-        views:""
+        views:"80"
     },
     {
         title:"WordinBlack Black Single Mothers Can Do It Alone But Why Should They Have To When Resources Are All Around",
@@ -53,7 +53,7 @@ var blogs =[
         p2:"In 2020, there were roughly 4.25 million Black families in the United States with a single mother, according to nationwide statistics. This is an uptick from 1990 rates of about 3.4 million Black families being raised by a single mother. In Detroit, according to Smartest Dollar, 72% of single mothers are raising their children solo.",
         p3:"Be part of our first-ever audience survey. This is your chance to let us know how you think we’re doing, who you are, what issues you care about, and what stories you want to read. It only takes five minutes and can directly shape our plan for 2022. Even beyond babysitting needs, single mothers looking for more resources and assistance might not always know how to navigate but there is help with several organizations eager to aid single mothers, especially Black women, allowing them to blossom.", 
         category: "Motherhood", 
-        views:""
+        views:"60"
     },
     {
         title:"Top 10 Challenges of the Modern Mom",
@@ -71,7 +71,7 @@ var blogs =[
         p9:"Parenting Solo: If you are a single mom, were raised by a single mom or know one, you know that most single mothers are challenged by sleep deprivation, stigma, conflict with their ex-partner, and financial insecurity. Many single moms rely on multiple minimum wage jobs that keep them just above or below the poverty level — even when they’re working full time. Not surprisingly, poverty and economic hardship are linked to anxiety and depression and many single moms - while doing an unbelievable job - are paying the cost with their mental well-being.",
         p10:"Gender Roles and Expectations: Even though the women’s movement has made great strides since the time of our mothers, we still face gender-based discrimination, abuse and unrealistic expectations.  Outside of the home, women are routinely paid less than men for the same job, are penalized for taking maternity leave, and are discriminated against just because they have children. Organizations, businesses and culture in general just assumes men are the primary breadwinners and that women are out earning ‘extra’ money. At home, although male parents are starting to take on more responsibilities that traditionally fall under the ‘mom’ role, the majority of women are still viewed and expected to do all of the ‘female’ duties… taking care of the children, cleaning, laundry, getting groceries, cooking, etc., etc., The harmful effects of these societal gender roles and expectations?  Most women suffer in silence - with higher rates of depression, anxiety and exhaustion - being the result.",
         category: "Motherhood", 
-        views:""
+        views:"100"
     },
 
     
@@ -118,7 +118,7 @@ var blogs =[
         p2:"What To Do: The North Cape is where you want to be outdoors but to best enjoy it, make sure you dress appropriately. Summers are generally chilly while some days climate change shines and it can get quite warm. Take a look at any given 7 day forecast and you’ll be taken on a roller coaster of icons with plenty of precipitation possible on any given day.",
         p3:"North Cape Norway Costs: Norway is expensive there’s no other way to put it. There are ways though you can travel to North Cape on a budget as Hege explains in the episode. For a unique experience up in the Arctic circle with plenty of hopping off points around Norway, North Cape might just be the perfect next destination for you with family or as part of a solo trip.", 
         category: "Lifestyle", 
-        views:""
+        views:"65"
     },
     {
         title:"CLIMBING MOUNT KILIMANJARO IN AFRICA – A COMPREHENSIVE GUIDE",
@@ -129,7 +129,7 @@ var blogs =[
         p2:"How to Get There: The most common way to reach Kilimanjaro is by flying into Kilimanjaro International Airport (JRO), located approximately 46 kilometers (29 miles) from Arusha. Several international airlines offer direct flights to Kilimanjaro Airport from major cities in Europe, the Middle East, and other parts of Africa. Upon arrival, you can arrange transportation to your accommodation in Arusha, where your Kilimanjaro adventure will begin.",
         p3:"When is the Best Time to Climb: Late December to early March and mid-June to late October are the best times for a Kilimanjaro climb. This is when the Kilimanjaro weather is nearly ideal. Seven days is the ideal duration of the expedition.", 
         category: "Lifestyle", 
-        views:""
+        views:"79"
     },
     {
         title:"Bukit Timah to Bangkok",
@@ -140,7 +140,7 @@ var blogs =[
         p2:"I have to confess to flying down to Singapore, and after an interesting night in Chinatown I met up with my travel partner for this adventure, Richard Barrow. Richard was an indispensable part of the trip as he managed to get nearly all the tickets in advance.",
         p3:"In a strange feature of international relations, Singapore did not own or operate its own railway. The two stations on the island were operated by KTM, the Malaysian railway until 2011. Today the two historic stations of Bukit Timah and Tanjong Pagar are preserved, but no longer operational. The challenge at the start of this journey is leaving Singapore. Today there is no direct train service, you have to get a five minute shuttle train from Woodlands across the causeway to JB Town (Johor Bahru). This isn’t as easy as might be, as it is busy and gets sold out, so you have to buy tickets well in advance.", 
         category: "Lifestyle", 
-        views:""
+        views:"90"
     },
 
     {
@@ -152,7 +152,7 @@ var blogs =[
         p2:"I use the “” when I write the diagnosis because I don’t quite agree with the name of it. What I feel the name says to those who know nothing about it, is that the person suffering has a ‘disordered personality’; there’s something ‘wrong’ with it and therefore with them as a person. Your personality is pretty much who you are and to have a label attached to it which basically calls it ‘disordered’ is a bit shitty to be honest. It’s not really surprising that there’s still a huge stigma attached to the “personality disorder” illnesses and I feel the name contributes to a large part of it.  I do NOT have a disordered personality, I am NOT flawed and my diagnosis does NOT define me as a person; it is NOT who I am.",
         p3:"Things have, however, changed slightly! BPD is now also known as “Emotionally Unstable Personality Disorder” (EUPD) which admittedly does get shot of the outdated ‘borderline’ part of the name but, the ‘personality disorder’ is still present, therefore not changing much in my opinion. I believe that the connotations of the phrase ’emotionally unstable’ are still mostly negative and further contribute to the stigma. It is often debated that the ‘PD’ should be dropped completely. I’ve mentioned it in a previous post that BPD is thought to stem from trauma in childhood and therefore should be named something which reflects the trauma it is caused by. I tend to agree.", 
         category: "MentalHealth", 
-        views:""
+        views:"80"
     },
     {
         title:"WHAT SOCIAL ANXIETY REALLY FEELS LIKE",
@@ -163,7 +163,7 @@ var blogs =[
         p2:"Having a Social Anxiety Disorder is far more serious than being a bit shy, having stomach jitters or going through an awkward teen phase. It can severely affect your day-to-day life. So much that you may find it extremely difficult to go to school or work, make friends and maintain friendships, do typical daily tasks that require being out of the house or in public, use the telephone, have a conversation, be seen outdoors, go to events/parties, try new things… shit, even having the smallest of responsibilities can fuck you up. It can be hard telling people what social anxiety really feels like because it’s often confusing and complex to us",
         p3:"Obviously social anxiety affects everyone in different ways and something that one person may find difficult may not be the same for another person with social anxiety, we may not all be triggered the same way or have the same level of severity but one thing is for sure, if we don’t treat it or get a handle on it, it can stop us from living our lives properly.", 
         category: "MentalHealth", 
-        views:""
+        views:"100"
     },
     {
         title:"The most important things that counselling has taught me",
@@ -174,7 +174,7 @@ var blogs =[
         p2:"But the truth is sometimes your nearest and dearest – no matter how hard the try – don’t always say the right thing, because they’re not trained in how to deal with your illness.",
         p3:"That’s when talking to a professional counsellor can really help, because you can get more than just comfort and reassurance – you can actually learn the skills to get better.", 
         category: "MentalHealth", 
-        views:""
+        views:"60"
     },
 
     {
@@ -186,7 +186,7 @@ var blogs =[
         p2:"Dr Jantjies holds the prestigious Group Executive of Innovation and Transformation role at TELKOM and is an Associate Professor in Information Systems at the University of the Western Cape (UWC). Here her research focuses on developing mobile learning software systems in STEM subjects that will be accessible in all South African languages. ",
         p3:"Concerned with how few women have access to careers in tech in SA, she encourages her students to join the Mozilla and UN Women technology clubs for young girls. In these tech clubs, young girls from Cape Town township high schools can learn ICT skills and are encouraged to take the leap into a career in tech. Casting her net wider to help women across Africa, she co-founded Peo ya Phetogo (PYP), a non-profit dedicated to digital skills development among our youth, schools, teachers and communities.", 
         category: "WomenInTech", 
-        views: ""
+        views: "70"
     },
     {
         title:"Lindiwe Matlali's Journey in Tech",
@@ -197,7 +197,7 @@ var blogs =[
         p2:"She started out by studying BCom economics and statistics at UCT. After a decade of working, she completed a course in executive education and data analysis with Harvard Business School. She is currently studying towards her Masters in Technology Management from Columbia University in New York, as well as a Graduate Certificate in Entrepreneurship and Innovation at Stanford University. She has won multiple awards, among them Excellence in STEM from the Charlotte Maxeke Institute, Social Innovator of the Year by the Schwab Foundation, and was named one of the Mail & Guardian 50 Powerful Women in SA in 2021.",
         p3:"Her exposure to some of the world’s leading educational institutions has led to an exciting position with the Presidential Commission on the Fourth Industrial Revolution (4IR), which aims to help the government seize opportunities presented by the digital industrial revolution. The venture we’re most impressed with is her role as founder and CEO of Africa Teen Geeks, an NGO that teaches kids how to code. Teen Geeks is the largest computer science non-profit organisation in Africa and has one clear goal: to educate, inspire and equip young people with skills, resources and experience to pursue STEM careers and close the opportunity gap through quality education.", 
         category: "WomenInTech", 
-        views: ""
+        views: "75"
     },
     {
         title:"Inspirational Female Tech Leaders in South Africa",
@@ -208,7 +208,7 @@ var blogs =[
         p2:"Unlike our other tech heroines, Thembiso has no formal education in technology. However, when she decided she wanted a future in IT, she spent her free time reading Computer Programming For Dummies, watching Youtube tutorials, and studying various online coding and IT courses. Soon she was teaching her niece and friends basic coding in her sister’s garage, with limited wifi and only one laptop between them. That inspired her to launch Social Coding. Her background and training in finance has stood her in good stead, helping her secure funds and creating multiple revenue streams for her nonprofit.",
         p3:"Thembiso’s passion and drive have catapulted her into one of South Africa’s most recognised female tech movers and shakers. She has been recognised as a World Economic Forum Global Shaper and is an accomplished TEDx Speaker. In 2019 she was named one of the 50 most inspiring women in tech by @InspiringFifty SA, a non-profit that aims to increase diversity in tech by making female role models more visible. Her nonprofit, Social Coding, is where she has made a huge difference to thousands of disadvantaged girls and women. The technical workshops cover software development and design thinking and teach girls to be initiators, conceptualists, shapers, and drivers of innovative and strategic problem-solving.", 
         category: "WomenInTech", 
-        views: ""
+        views: "78"
     },
 
 ];
