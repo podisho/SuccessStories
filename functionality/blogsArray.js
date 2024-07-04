@@ -111,7 +111,7 @@ var blogs =[
 
     {
         title:"How To Visit The North Cape In Norway",
-        img:"Lijpgfestyle1.",
+        img:"Lifestyle1.jpg",
         author:"Posted by Anil Polat ",
         date:"Jun 13, 2024 ",
         p1:"Getting There: Although it’s a bit remote, getting to the North Cape is pretty straightforward once you get to Norway. You’ll want to get to Alta (the one in Norway, not Alta in Utah which is also great for hiking by the way) and from there you can either take a bus or rent a car. A drive from Alta to North Cape takes roughly 3-4 hours but keep in mind the weather can change rapidly and potentially slow you down.",
