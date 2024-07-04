@@ -179,7 +179,7 @@ var blogs =[
 
     {
         title:"Dr Mmaki Jantjies's Journey in Tech",
-        img:"WomenInTech1.jpg",
+        img:"Mmaki_Jantjies.original.jpg",
         author:"HyperionDev Blog",
         date:"February 12, 2022",
         p1:"Capetonian Dr Mmaki Jantjies is on a mission to disrupt the South African educational system. A computer scientist with a passion for how technological innovations can improve society, she has a CV the length of the Hubble space telescope’s code – and the experience to execute it! After completing her Honours in informatics at the University of Pretoria, she moved to the UK where she studied for her Master’s degree in computing at Oxford Brookes University, followed by her PhD in computer science at the University of Warwick.  She is a research member at the United Nations University that merges ICT with global sustainable development goals.",
@@ -190,7 +190,7 @@ var blogs =[
     },
     {
         title:"Lindiwe Matlali's Journey in Tech",
-        img:"WomenInTech2.jpg",
+        img:"Lindiwe-Matlali-Board-scaled.jpg",
         author:"HyperionDev Blog",
         date:"February 12, 2022",
         p1:"Gauteng native Lindiwe Matlali is a multiple tech industry and business leader award-winner who holds a number of board memberships and has been – and still is – involved in both grass-roots and government-level initiatives that aim to inspire Africa’s next generation of innovators and entrepreneurs.",
@@ -201,7 +201,7 @@ var blogs =[
     },
     {
         title:"Inspirational Female Tech Leaders in South Africa",
-        img:"WomenInTech3.jpg",
+        img:"Lindi.jpg",
         author:"HyperionDev Blog",
         date:"February 12, 2022",
         p1:"Thembiso Magajana is a self-confessed technophile from Gauteng who spent a decade in the financial sector before she found her true calling in code. It was a conversation with her then six-year-old niece who wanted to be the world’s next Steve Jobs – and being dismayed at how few black women there were in tech – that inspired her to leave the world of finance. Within months she was fully immersed in creating pathways for South African township youth to be part of the 4th Industrial Revolution.",
