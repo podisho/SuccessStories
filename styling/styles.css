@@ -101,7 +101,7 @@ main {
     margin-bottom: 20px;
 }
 
-.tabs{
+.tabs {
     display: flex;
 }
 
@@ -153,7 +153,12 @@ main {
     padding: 20px;
 }
 
-.blogCard{
+.blogCard,
+.aboutus,
+.vision,
+.mission,
+.whatwedo,
+.joinus {
     width: 30%;
     text-align: center;
     padding: 0 0 25px 0;
