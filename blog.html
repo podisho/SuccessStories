@@ -17,7 +17,7 @@
         </div>
         <nav>
             <a href="./index.html">Home</a>
-            <a href="#">About Us</a>
+            <a href="./AboutUs.html">About Us</a>
             <i class="fa-solid fa-magnifying-glass" id="search-icon"></i>  
             <input type="search" id="search-bar" placeholder="Search For Story...">
         </nav>
@@ -32,6 +32,7 @@
         </div>
 
      </div>
+     <div id="go-back-container"></div>
     
  <!--main content ends here-->
     
@@ -71,6 +72,7 @@
 
     <!-- javascript file -->
      <script src="./functionality/blogsArray.js"></script>
+     <script src="./functionality/script.js"></script>
      <script>
         // Function to create blog
         function createBlog(blog) {
@@ -98,6 +100,17 @@
                 document.getElementById("blog").innerHTML = createBlog(blog);
             }
         });
+
+        // Add a "Go Back" button to the page
+const goBackBtn = document.createElement('button');
+goBackBtn.textContent = 'Go Back';
+goBackBtn.id = 'go-back-btn';
+document.getElementById('go-back-container').appendChild(goBackBtn);
+
+// Add an event listener to the "Go Back" button
+goBackBtn.addEventListener('click', function() {
+  history.back();
+});
 
      </script>
 </body>
