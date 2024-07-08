@@ -22,7 +22,7 @@ header .logo {
 }
 
 header .logo img {
-    height: 40px;
+    height: 60px;
     margin-right: 10px;
 }
 
@@ -50,13 +50,33 @@ header nav i {
     color: palevioletred;
 }
 
+header nav i:hover {
+    color: #eee;
+}
+
 
 #search-bar {
     display: flex;
     border-radius: 5px;
     background-color: transparent;
-    background-color: rgba(100%, 0, 0, 0.1);
+    background-color: rgb(241, 239, 239);
 }
+
+#search-bar {
+    width: 200px;
+    height: 30px;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+  #search-bar:focus {
+    border-color: #333;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
 
 
 
@@ -81,7 +101,7 @@ main {
     margin-bottom: 20px;
 }
 
-.tabs{
+.tabs {
     display: flex;
     justify-content: center;
 }
@@ -126,6 +146,46 @@ main {
 
 /* tabs end */
 
+/* about us start  */
+
+.aboutusContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.heading h1 {
+    padding-left: 20px;
+}
+
+.aboutus, .vision, .mission, .whatwedo, .joinus {
+    width: 40%;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(140, 217, 217);
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.aboutus h2, .vision h2, .mission h2, .whatwedo h2, .joinus h2 {
+    margin-top: 0;
+}
+
+.aboutus p, .vision p, .mission p, .whatwedo p, .joinus p {
+    margin-bottom: 20px;
+}
+
+.mission ul, .whatwedo ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.mission li, .whatwedo li {
+    margin-bottom: 10px;
+}
+
 /* tab content start */
 
 .blogsContainer{
@@ -134,7 +194,7 @@ main {
     padding: 20px;
 }
 
-.blogCard{
+.blogCard {
     width: 30%;
     text-align: center;
     padding: 0 0 25px 0;
@@ -159,7 +219,8 @@ main {
     border-top-right-radius: 8px;
 }
 
-/* tab content ends */
+
+/* about us end */
 
 /* blog page css starts */
 
@@ -200,6 +261,22 @@ main {
 
 #blog h2{
     padding: 20px;
+}
+
+#go-back-btn {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 20px;
+    margin-left: 45%;
+}
+  
+  #go-back-btn:hover {
+    background-color: #444;
 }
 
 

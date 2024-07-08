@@ -12,17 +12,23 @@
     <!--navigation bar-->
     <header>
         <div class="logo">
-            <img src="" alt="">
+            <img src="./images/logo.png" alt="logo">
             <span>Women Success Stories</span>
         </div>
         <nav>
             <a href="./index.html">Home</a>
+<<<<<<< HEAD
             <a href="#">About Us</a>
              <div id="search-bar">
                 <input type="search"  placeholder="Search For Story...">
                 <i class="fa-solid fa-magnifying-glass" id="search-icon"></i> 
              </div>
            
+=======
+            <a href="./AboutUs.html">About Us</a>
+            <i class="fa-solid fa-magnifying-glass" id="search-icon"></i>  
+            <input type="search" id="search-bar" placeholder="Search For Story...">
+>>>>>>> 7bc009ec5087646751c98b26a8b2750c4ea4536f
         </nav>
      </header>
      <!--navigation bar ends here-->
@@ -35,6 +41,7 @@
         </div>
 
      </div>
+     <div id="go-back-container"></div>
     
  <!--main content ends here-->
     
@@ -74,6 +81,7 @@
 
     <!-- javascript file -->
      <script src="./functionality/blogsArray.js"></script>
+     <script src="./functionality/script.js"></script>
      <script>
         // Function to create blog
         function createBlog(blog) {
@@ -103,6 +111,17 @@
                 document.getElementById("blog").innerHTML = createBlog(blog);
             }
         });
+
+        // Add a "Go Back" button to the page
+const goBackBtn = document.createElement('button');
+goBackBtn.textContent = 'Go Back';
+goBackBtn.id = 'go-back-btn';
+document.getElementById('go-back-container').appendChild(goBackBtn);
+
+// Add an event listener to the "Go Back" button
+goBackBtn.addEventListener('click', function() {
+  history.back();
+});
 
      </script>
 </body>
