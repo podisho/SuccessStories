@@ -18,8 +18,11 @@
         <nav>
             <a href="./index.html">Home</a>
             <a href="#">About Us</a>
-            <i class="fa-solid fa-magnifying-glass" id="search-icon"></i>  
-            <input type="search" id="search-bar" placeholder="Search For Story...">
+             <div id="search-bar">
+                <input type="search"  placeholder="Search For Story...">
+                <i class="fa-solid fa-magnifying-glass" id="search-icon"></i> 
+             </div>
+           
         </nav>
      </header>
      <!--navigation bar ends here-->
@@ -60,7 +63,7 @@
             <div class="footerSection">
                 <h4>Follow Us</h4>
             <a href="https://www.instagram.com/race_gear1?igsh=MTN4cnZ3MWhtOHZoNQ=="> <i class="fa-brands fa-square-instagram"></i></a>
-            <a href="mailto:racegear03@gmail.com"><i class="fa-solid fa-envelope"></i></a>
+            <a href="mailto:successwomenstories03@gmail.com"><i class="fa-solid fa-envelope"></i></a>
             </div>
             
         </div>
@@ -86,6 +89,8 @@
                 <p class="blogParagraph">${blog.p1}</p>
                 <p class="blogParagraph">${blog.p2}</p>
                 <p class="blogParagraph">${blog.p3}</p>
+                <br>
+                <p class="blogParagraph">views: ${blog.views}</p>
             `;
         }
 

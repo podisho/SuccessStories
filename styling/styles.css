@@ -2,14 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #e5e0e0;
 }
 
 /* navigation bar styling */
 
 header {
     background-color: pink;
-    color: #fff;
+    color: #0b0b0b;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -52,7 +52,7 @@ header nav i {
 
 
 #search-bar {
-    display: none;
+    display: flex;
     border-radius: 5px;
     background-color: transparent;
     background-color: rgba(100%, 0, 0, 0.1);
@@ -83,6 +83,7 @@ main {
 
 .tabs{
     display: flex;
+    justify-content: center;
 }
 
 .tab-btn {
@@ -248,3 +249,64 @@ main {
 
 
 /* footer styling ends here */
+
+/* About us content styling start here */
+
+
+.aboutContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.aboutContent{
+    padding: 20px;
+    max-width: 70%;
+}
+
+.aboutContent h3{
+    color: #2C021C;
+}
+
+.team{
+    text-align: center ;
+}
+
+.teamContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.teamCard{
+    width: 22%;
+    border-radius: 6px;
+    margin: 20px 30px;
+    background-color: #efccf0;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.teamCardImage {
+    width: 100%;
+    text-align: center;
+}
+
+.teamCardImage img{
+    width: 100%;
+    height: 350px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.teamCardContent{
+    text-align: center;
+}
+
+.teamCardContent a{
+    text-decoration: none;
+    color: rgb(236, 125, 195);
+}
+
+
+
+
+
+/* About us content styling ends here */

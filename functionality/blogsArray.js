@@ -1,28 +1,28 @@
 var blogs =[
     {
-        title:"Makeup",
+        title:"Your Spring Makeup Wardrobe update",
         img:"beauty1.jpg",
         author:"Chanel Les Beiges",
         date:"06 June 2024",
-        p1:"When you look good, you feel good! One of the most noticeable aspects of you is your hair. The key to keeping your curls strong and healthy is to use the right products. With the right protective measures, your afro can have all the thickness and bounce it deserves.",
+        p1:" Makeup can be a form of self-expression, allowing women to convey their personality, creativity, and mood. It offers a way to experiment with colors, styles, and trends.Makeup can play a crucial role in helping women achieve a professional look, contributing to their overall presentation and the impression they make in the workplace.",
         p2:"I can see myself wearing every single palette this summer although my favorites are Medium Coral and Medium Rose Gold. I like that Light Coral is lighter but still shows up my skin. If you have ultra fair skin tone I think Light Coral will be the best option for you. Deep Rose Gold is so beautiful but pulls very dark on my skin. Even with a light hand it’s too dark but that means this will most likely show up on deeper skin tones.",
         p3:"We’ve been collecting the Chanel bronzers every year for as long as I can remember. This year they brought 5 shades and I love how soft and naturally glowy they look on the skin. Each compact has 3 shades you can use individually or swirl together. The compacts are oversized like the ones from 2022. Each color has enough product you can definitely dip your brush into each shade without overlapping colors if you prefer.",
         category: "Beauty", 
-        views:"60"
+        views:"897"
     },
     {
-        title:"Hair Products",
+        title:"Natural ingredients that may help your hair grow",
         img:"beauty2.jpg",
         author:"TCB",
         date:"12 june 2018",
-        p1:"Caring for your curly hair can be quite challenging, especially if you aren’t familiar with what works with your hair and what doesn’t. To make the process easier, hair care experts have classified hair into distinct categories and sub-categories based on texture and curl patterns. Curly hair falls into the Type 3 category, which is further divided into 3A, 3B and 3C subcategories. Understanding which category and sub-category your hair falls into is the first and most crucial step giving your hair the TLC it needs. Here’s what you need to know about caring for Type 3 hair.",
+        p1:"Caring for your curly hair can be quite challenging, especially if you aren’t familiar with what works with your hair and what doesn’t.With the right protective measures, your afro can have all the thickness and bounce it deserves.The key to keeping your curls strong and healthy is to use the right products.  When you look good, you feel good! One of the most noticeable aspects of you is your hair. To make the process easier, hair care experts have classified hair into distinct categories and sub-categories based on texture and curl patterns. Curly hair falls into the Type 3 category, which is further divided into 3A, 3B and 3C subcategories. Understanding which category and sub-category your hair falls into is the first and most crucial step giving your hair the TLC it needs. Here’s what you need to know about caring for Type 3 hair.",
         p2:"Shampooing Once A Week  African hair is naturally dry and lacks oil. Gently shampoo your curls once a week for proper cleansing. However, overdoing it can lead to frizz and breakage. Use a sulphate-free shampoo to prevent dryness.    Leave-In Moisturizer   Moisture is your best friend! Use a leave-in moisturiser on days when you don’t wash or condition your hair. TCB Naturals Leave-In Treatment contains a unique blend of shea butter and coconut oil, which deeply moisturizes and nourishes your hair. Regular use can rejuvenate your hair making it silky, smooth and voluminous. Sealing the moisturized hair with oil further helps you trap in the moisture, which in turn promotes hair growth.",
         p3:"Comb It The Right Way  Having curly hair means continuously dealing with knots and tangles. Gently run your fingers through your hair before combing them, this will help eliminate big knots. Make sure you use a wide-toothed comb and avoid tugging too hard. Avoid brushing or combing them from the roots, it causes breakage. Start brushing from the middle and gently make your way up.   Natural Afro hair requires special care, give Let’s Help You Maintain Your Natural Hair a read, so your locks stay healthy and gorgeous.", 
         category: "Beauty", 
-        views:"80"
-    },
+        views:"180"
+    },XDN
     {
-        title:"Skin Care",
+        title:"How to practice self skin love",
         img:"beauty3.jpg",
         author:"Janeca Racho",
         date:"21 October 2021",
@@ -30,7 +30,7 @@ var blogs =[
         p2:"Retinol is a hero ingredient that boosts skin cell turnover, boosts collagen, supports sloughing of dead skin cells, and combats free radical activity to prevent cellular damage. To get nerdie, retinol is a derivative of vitamin A and natural precursor to retinoic acid. Once it’s absorbed into the skin, retinol is converted into retinoic acid, which is the active form of vitamin A, so the skin can reap the benefits of it.",
         p3:"Retinol and vitamin C are two powerhouse active ingredients that have amazing skin-boosting properties but can lead to irritation when layered together. As the use of retinol requires acclimatisation and can be irritating to some, it shouldn’t be used at the same time as vitamin C. This doesn’t mean that the you can’t include both in your regime though! Our Chemist Gabriela recommends using vitamin C underneath your broad-spectrum SPF in the morning as SPF shields the skin from UV rays, while vitamin C combats free radical damage caused by UV exposure. Then, use retinol at night to support the skin’s natural processes of cellular repair and proliferation which occur while you are sleeping.", 
         category: "Beauty", 
-        views:"75"
+        views:"275"
     },
 
     {
@@ -42,7 +42,7 @@ var blogs =[
         p2:"On this occasion, I am referring to the fact that 11 months ago, my daughter gave birth to two beautiful baby boys. I should have been excited with the anticipation of holding my newest grands, but I wasn’t. I was utterly terrified. I wasn’t worried about her babies. I was worried about my baby. While some might chalk this up to being an overprotective mama bear (which is an identity that I am quite proud of), this is a product of widespread systemic racism exacted against Black and Brown bodies.",
         p3:"The chilling truth is that Black women are three times more likely to die from pregnancy-related complications than White women, and Black infants are two times more likely to die before they turn one. These complications include cardiac conditions, excessive bleeding, infections, blood clots, hypertension disorders, and, most prominently, mental health conditions", 
         category: "Motherhood", 
-        views:"80"
+        views:"380"
     },
     {
         title:"WordinBlack Black Single Mothers Can Do It Alone But Why Should They Have To When Resources Are All Around",
@@ -87,7 +87,7 @@ var blogs =[
         p4:"Analyzing processes and identifying areas for improvement can help optimize efficiency and reduce costs. Cross-training staffers on redundant tasks can add up to substantial time – and therefore, money – savings. Similarly, periodic reviews of inventory management and procurement procedures are essential. Try encouraging employee feedback, as well, to generate innovative budgeting ideas from within." ,
         p5:"For tasks outside the core competencies of the business, outsourcing can be a cost-effective solution. Additionally, outsourcing allows small-to-medium businesses to access expertise and resources that may not be available in-house, from accounting to information technology to graphic design.",
         p6:"Last, but certainly not least, implementing energy-efficient practices reduces environmental impact and lowers costs. Simple measures such as upgrading to energy-efficient appliances, installing programmable thermostats, and in-office recycling programs can lead to significant savings while supporting sustainability efforts.",
-        views:""
+        views:"321"
     },
     {
         title:"Her Business Helps Youngsters Learn French Avec Leurs Parents",
@@ -101,10 +101,10 @@ var blogs =[
         views:"400"
     },
     {
-        title:"Digital marketing quick start guide foe small business owners",
+        title:"Digital marketing quick start guide for small business owners",
         img:"e2.png",
-        author:"",
-        date:"",
+        author:"Brenda Jacobs",
+        date:"17 May 2023",
         p1:"As a small business owner, you wear many hats. In fact, some days it can feel like you’re changing hats by the hour. From accounting to staffing to sales, you’re pulled in many directions – and one area with great potential to boost your bottom line often gets too little attention. ",
         p2:"Start by launching profiles on one or two social media platforms where your target audience is most active. For most small businesses, Facebook and Instagram are great starting points. Choose a platform, create a business profile, and upload a profile picture.",
         p3:"Use a tool like Semrush to find relevant keywords for your business. Focus on long-tail keywords (phrases with 3-5 words) as they are often less competitive and more specific to your audience's needs. Utilize these keywords throughout the copy on your website and in blog posts .A great place to start is writing blog posts that address common questions among your audience. This provides value while positioning you as an authority in your field.Start by sending newsletters bi-weekly or monthly; services like Constant Contact make it easy to design, test, and schedule marketing emails. Keep the content concise and relevant to your business, including links to your blog posts, social media platforms, team member profiles, or current events.", 
@@ -116,52 +116,52 @@ var blogs =[
         title:"How To Visit The North Cape In Norway",
         img:"norway.jpg",
         author:"Posted by Anil Polat ",
-        date:"Jun 13, 2024 ",
+        date:"13 jun 2024 ",
         p1:"Getting There: Although it’s a bit remote, getting to the North Cape is pretty straightforward once you get to Norway. You’ll want to get to Alta (the one in Norway, not Alta in Utah which is also great for hiking by the way) and from there you can either take a bus or rent a car. A drive from Alta to North Cape takes roughly 3-4 hours but keep in mind the weather can change rapidly and potentially slow you down.",
         p2:"What To Do: The North Cape is where you want to be outdoors but to best enjoy it, make sure you dress appropriately. Summers are generally chilly while some days climate change shines and it can get quite warm. Take a look at any given 7 day forecast and you’ll be taken on a roller coaster of icons with plenty of precipitation possible on any given day.",
         p3:"North Cape Norway Costs: Norway is expensive there’s no other way to put it. There are ways though you can travel to North Cape on a budget as Hege explains in the episode. For a unique experience up in the Arctic circle with plenty of hopping off points around Norway, North Cape might just be the perfect next destination for you with family or as part of a solo trip.", 
         category: "Lifestyle", 
-        views:"80"
+        views:"280"
     },
     {
         title:"CLIMBING MOUNT KILIMANJARO IN AFRICA – A COMPREHENSIVE GUIDE",
         img:"mount.jpg",
         author:"Lakshmi Sharath",
-        date:"Oct 13, 2023",
+        date:"13 Oct 2023",
         p1:"Where is Mount Kilimanjaro Located?: Mount Kilimanjaro is situated in northeastern Tanzania, near the border with Kenya. Its majestic peak rises above the surrounding plains, commanding the attention of all who behold it. The nearest major city to Kilimanjaro is Arusha, a popular starting point for many Kilimanjaro treks.",
         p2:"How to Get There: The most common way to reach Kilimanjaro is by flying into Kilimanjaro International Airport (JRO), located approximately 46 kilometers (29 miles) from Arusha. Several international airlines offer direct flights to Kilimanjaro Airport from major cities in Europe, the Middle East, and other parts of Africa. Upon arrival, you can arrange transportation to your accommodation in Arusha, where your Kilimanjaro adventure will begin.",
         p3:"When is the Best Time to Climb: Late December to early March and mid-June to late October are the best times for a Kilimanjaro climb. This is when the Kilimanjaro weather is nearly ideal. Seven days is the ideal duration of the expedition.", 
         category: "Lifestyle", 
-        views:"79"
+        views:"179"
     },
     {
         title:"Bukit Timah to Bangkok",
         img:"bangkok.jpg",
         author:"Matthew Woodward",
-        date:"December 14, 2023",
+        date:"14 December 2023",
         p1:"In the 1920s the southern line in Thailand connected to Malaya and travel was popular by train between Bangkok and Singapore. In the days before sleeper carriages, passengers would stop in local guesthouses, later replaced by railway hotels. International travel by train from Thailand has become quite disjointed lately, so I decided to try the journey from Singapore to Bangkok – not by the Eastern & Oriental Express, but using everyday trains.",
         p2:"I have to confess to flying down to Singapore, and after an interesting night in Chinatown I met up with my travel partner for this adventure, Richard Barrow. Richard was an indispensable part of the trip as he managed to get nearly all the tickets in advance.",
         p3:"In a strange feature of international relations, Singapore did not own or operate its own railway. The two stations on the island were operated by KTM, the Malaysian railway until 2011. Today the two historic stations of Bukit Timah and Tanjong Pagar are preserved, but no longer operational. The challenge at the start of this journey is leaving Singapore. Today there is no direct train service, you have to get a five minute shuttle train from Woodlands across the causeway to JB Town (Johor Bahru). This isn’t as easy as might be, as it is busy and gets sold out, so you have to buy tickets well in advance.", 
         category: "Lifestyle", 
-        views:"590"
+        views:"501"
     },
 
     {
         title:"Lets Talk About Borderline Personality Disorder",
         img:"personality.jpg",
         author:"CAITLIN JOHNSON",
-        date:"SEPTEMBER 11, 2018",
+        date:"11 September 2018",
         p1:"The intention of this post is to talk about my diagnosis. I think I’m mainly going to discuss my thoughts and feelings surrounding the reality of being diagnosed with “Borderline Personality Disorder” (BPD), especially the ones I felt when I was first diagnosed but we’ll see how it goes. This post has been the hardest to write so far. I’m not sure which aspects to focus on or what message I want to get across but anyway, I hope it is still insightful.",
         p2:"I use the “” when I write the diagnosis because I don’t quite agree with the name of it. What I feel the name says to those who know nothing about it, is that the person suffering has a ‘disordered personality’; there’s something ‘wrong’ with it and therefore with them as a person. Your personality is pretty much who you are and to have a label attached to it which basically calls it ‘disordered’ is a bit shitty to be honest. It’s not really surprising that there’s still a huge stigma attached to the “personality disorder” illnesses and I feel the name contributes to a large part of it.  I do NOT have a disordered personality, I am NOT flawed and my diagnosis does NOT define me as a person; it is NOT who I am.",
         p3:"Things have, however, changed slightly! BPD is now also known as “Emotionally Unstable Personality Disorder” (EUPD) which admittedly does get shot of the outdated ‘borderline’ part of the name but, the ‘personality disorder’ is still present, therefore not changing much in my opinion. I believe that the connotations of the phrase ’emotionally unstable’ are still mostly negative and further contribute to the stigma. It is often debated that the ‘PD’ should be dropped completely. I’ve mentioned it in a previous post that BPD is thought to stem from trauma in childhood and therefore should be named something which reflects the trauma it is caused by. I tend to agree.", 
         category: "MentalHealth", 
-        views:"60"
+        views:"160"
     },
     {
         title:"WHAT SOCIAL ANXIETY REALLY FEELS LIKE",
         img:"anxiety.jpg",
         author:"ANXIOUSLASS",
-        date:"13TH FEBRUARY 2017",
+        date:"13 February 2017",
         p1:"So you’ve been diagnosed with a Social Anxiety Disorder and you quickly realise how many people just think you’re “a bit shy” or using it as an excuse or even using it to get sympathy or attention. Does that sound about right? That’s if you’ve even told anyone you have it of course because let’s face it, that’s not an easy thing to do when you have social anxiety.It might even get dismissed by some people as a “teenage thing” or a phase you’ll get over but we both know that’s a sack of crap, don’t we?",
         p2:"Having a Social Anxiety Disorder is far more serious than being a bit shy, having stomach jitters or going through an awkward teen phase. It can severely affect your day-to-day life. So much that you may find it extremely difficult to go to school or work, make friends and maintain friendships, do typical daily tasks that require being out of the house or in public, use the telephone, have a conversation, be seen outdoors, go to events/parties, try new things… shit, even having the smallest of responsibilities can fuck you up. It can be hard telling people what social anxiety really feels like because it’s often confusing and complex to us",
         p3:"Obviously social anxiety affects everyone in different ways and something that one person may find difficult may not be the same for another person with social anxiety, we may not all be triggered the same way or have the same level of severity but one thing is for sure, if we don’t treat it or get a handle on it, it can stop us from living our lives properly.", 
@@ -172,46 +172,46 @@ var blogs =[
         title:"The most important things that counselling has taught me",
         img:"counselling.jpg",
         author:"lydiaontheborderline",
-        date:"Jul 1, 2018",
+        date:"1 July 2018",
         p1:"If you’ve been diagnosed with a mental illness then you’ve probably been told a million times that it’s good to talk.Being open and honest with your partner, family and friends is definitely a step in the right direction as keeping your feeling bottled up is a recipe for disaster.",
         p2:"But the truth is sometimes your nearest and dearest – no matter how hard the try – don’t always say the right thing, because they’re not trained in how to deal with your illness.",
         p3:"That’s when talking to a professional counsellor can really help, because you can get more than just comfort and reassurance – you can actually learn the skills to get better.", 
         category: "MentalHealth", 
-        views:"60"
+        views:"360"
     },
 
     {
         title:"Dr Mmaki Jantjies's Journey in Tech",
         img:"Mmaki_Jantjies.original.jpg",
         author:"HyperionDev Blog",
-        date:"February 12, 2022",
+        date:"03 February 2021",
         p1:"Capetonian Dr Mmaki Jantjies is on a mission to disrupt the South African educational system. A computer scientist with a passion for how technological innovations can improve society, she has a CV the length of the Hubble space telescope’s code – and the experience to execute it! After completing her Honours in informatics at the University of Pretoria, she moved to the UK where she studied for her Master’s degree in computing at Oxford Brookes University, followed by her PhD in computer science at the University of Warwick.  She is a research member at the United Nations University that merges ICT with global sustainable development goals.",
         p2:"Dr Jantjies holds the prestigious Group Executive of Innovation and Transformation role at TELKOM and is an Associate Professor in Information Systems at the University of the Western Cape (UWC). Here her research focuses on developing mobile learning software systems in STEM subjects that will be accessible in all South African languages. ",
         p3:"Concerned with how few women have access to careers in tech in SA, she encourages her students to join the Mozilla and UN Women technology clubs for young girls. In these tech clubs, young girls from Cape Town township high schools can learn ICT skills and are encouraged to take the leap into a career in tech. Casting her net wider to help women across Africa, she co-founded Peo ya Phetogo (PYP), a non-profit dedicated to digital skills development among our youth, schools, teachers and communities.", 
         category: "WomenInTech", 
-        views: "70"
+        views: "170"
     },
     {
         title:"Lindiwe Matlali's Journey in Tech",
         img:"Lindiwe-Matlali-Board-scaled.jpg",
         author:"HyperionDev Blog",
-        date:"February 12, 2022",
+        date:"12 February 2022",
         p1:"Gauteng native Lindiwe Matlali is a multiple tech industry and business leader award-winner who holds a number of board memberships and has been – and still is – involved in both grass-roots and government-level initiatives that aim to inspire Africa’s next generation of innovators and entrepreneurs.",
         p2:"She started out by studying BCom economics and statistics at UCT. After a decade of working, she completed a course in executive education and data analysis with Harvard Business School. She is currently studying towards her Masters in Technology Management from Columbia University in New York, as well as a Graduate Certificate in Entrepreneurship and Innovation at Stanford University. She has won multiple awards, among them Excellence in STEM from the Charlotte Maxeke Institute, Social Innovator of the Year by the Schwab Foundation, and was named one of the Mail & Guardian 50 Powerful Women in SA in 2021.",
         p3:"Her exposure to some of the world’s leading educational institutions has led to an exciting position with the Presidential Commission on the Fourth Industrial Revolution (4IR), which aims to help the government seize opportunities presented by the digital industrial revolution. The venture we’re most impressed with is her role as founder and CEO of Africa Teen Geeks, an NGO that teaches kids how to code. Teen Geeks is the largest computer science non-profit organisation in Africa and has one clear goal: to educate, inspire and equip young people with skills, resources and experience to pursue STEM careers and close the opportunity gap through quality education.", 
         category: "WomenInTech", 
-        views: "75"
+        views: "375"
     },
     {
         title:"Inspirational Female Tech Leaders in South Africa",
         img:"Lindi.jpg",
         author:"HyperionDev Blog",
-        date:"February 12, 2022",
+        date:" 16 May 2023",
         p1:"Thembiso Magajana is a self-confessed technophile from Gauteng who spent a decade in the financial sector before she found her true calling in code. It was a conversation with her then six-year-old niece who wanted to be the world’s next Steve Jobs – and being dismayed at how few black women there were in tech – that inspired her to leave the world of finance. Within months she was fully immersed in creating pathways for South African township youth to be part of the 4th Industrial Revolution.",
         p2:"Unlike our other tech heroines, Thembiso has no formal education in technology. However, when she decided she wanted a future in IT, she spent her free time reading Computer Programming For Dummies, watching Youtube tutorials, and studying various online coding and IT courses. Soon she was teaching her niece and friends basic coding in her sister’s garage, with limited wifi and only one laptop between them. That inspired her to launch Social Coding. Her background and training in finance has stood her in good stead, helping her secure funds and creating multiple revenue streams for her nonprofit.",
         p3:"Thembiso’s passion and drive have catapulted her into one of South Africa’s most recognised female tech movers and shakers. She has been recognised as a World Economic Forum Global Shaper and is an accomplished TEDx Speaker. In 2019 she was named one of the 50 most inspiring women in tech by @InspiringFifty SA, a non-profit that aims to increase diversity in tech by making female role models more visible. Her nonprofit, Social Coding, is where she has made a huge difference to thousands of disadvantaged girls and women. The technical workshops cover software development and design thinking and teach girls to be initiators, conceptualists, shapers, and drivers of innovative and strategic problem-solving.", 
         category: "WomenInTech", 
-        views: "78"
+        views: "178"
     },
 
 ];
