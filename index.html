@@ -12,20 +12,14 @@
     <!--navigation bar-->
     <header>
         <div class="logo">
-<<<<<<< HEAD
-            <img src="images/L.jpg" alt="our logo">
-=======
             <img src="./images/logo.png" alt="logo">
->>>>>>> 7bc009ec5087646751c98b26a8b2750c4ea4536f
             <span>Women Success Stories</span>
         </div>
         <nav>
             <a href="#">Home</a>
             <a href="AboutUs.html">About Us</a>
-            <div id="search-bar">
-                <input type="search"  placeholder="Search For Story...">
-                <i class="fa-solid fa-magnifying-glass" id="search-icon"></i> 
-             </div>
+            <i class="fa-solid fa-magnifying-glass" id="search-icon"></i>  
+            <input type="search" id="search-bar" placeholder="Search For Story...">
         </nav>
      </header>
      <!--navigation bar ends here-->
@@ -177,12 +171,8 @@
 
 // Display the first 3 blogs in the "What's Trending" tab
 let trendingBlogs = "";
-for (let i = 0; i <  blogs.length ; i++) {
-    const views = parseInt(blogs[i].views);
-    if(views>500){
-        trendingBlogs += createBlogCard(blogs[i]);
-    }
-    
+for (let i = 0; i < Math.min(3, blogs.length); i++) {
+    trendingBlogs += createBlogCard(blogs[i]);
 }
 document.querySelector("#tab1 .blogsContainer").innerHTML = trendingBlogs;
 
